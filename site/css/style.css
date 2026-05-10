@@ -1,0 +1,17 @@
+body{
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: windings;
+}
+
+/*header*/
+#header-nav{
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-default {
+  background-color: #f8f8f8;
+  border-color: #e7e7e7;
