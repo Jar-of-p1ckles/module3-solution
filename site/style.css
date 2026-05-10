@@ -11,9 +11,23 @@ body{
   border: 0;
 }
 
-#logo-img {
-  background: url("../site/Image.png") no-repeat;
-  width: 150px;
-  height: 84px;
-  margin: 10px 15px 10px 0;
+#pa {
+  background: url("../site/gato-fuerte.png") no-repeat;
+
 }
+
+  /*#logo-img {
+  background: url('../site/gato-fuerte.png') no-repeat;
+  width: 150px;
+  height: 150px;
+  margin: 10px 15px 10px 0;
+}*/
+#logo-img {
+    background: url("../site/image-logo.jpg") no-repeat;
+    width: 120px;
+    height: 125px;
+    margin: 0px 0px 10px 0px;
+    margin: right;
+    position: relative;
+    right: 100px;
+  }
